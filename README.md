@@ -1,4 +1,4 @@
-# phantom-py
+# fuelwallet-py
 python for blockchain fuel official wallet, suport use mnemonic seeds generate fuel address and private key
 
 ## pip
