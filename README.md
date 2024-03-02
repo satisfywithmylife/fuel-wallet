@@ -3,8 +3,14 @@ python for blockchain fuel official wallet, suport use mnemonic seeds generate f
 
 ## pip
 ```
-pip install bip_utils==2.7.0
+pip install bip_utils
 ```
+
+```
+# use this project dir`s bech32m.py
+from bech32m import encode  # a little different with bitcoin bech32m 
+```
+
 ## 
 ```python
 from hashlib import sha256
