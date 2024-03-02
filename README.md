@@ -66,7 +66,10 @@ address index 4, address: fuel1vqn9mu84v8keec0u8fge8295epr5mn6c74nwekyqn5yspgn8h
 ```
 
 ## import the mnemonic seed to fuel official wallet , get result
-![fual_wallet](https://github.com/satisfywithmylife/fuel-wallet/assets/30144807/bbbd2a8b-8814-41a5-814c-bc0d4b843ab0)
+
+<img src="https://github.com/satisfywithmylife/fuel-wallet/assets/30144807/bbbd2a8b-8814-41a5-814c-bc0d4b843ab0" width="30%">
+
+## if you export private key from wallet, you will get same result
 
 
 # last but important!
